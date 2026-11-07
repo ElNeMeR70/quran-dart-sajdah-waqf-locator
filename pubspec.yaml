@@ -1,0 +1,5 @@
+name: quran_dart_sajdah_waqf_locator
+description: "Tilawah Sajdah & Mandatory Waqf Boundary Detector"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
